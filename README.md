@@ -1,5 +1,3 @@
-# dev
-#battle dev
-#MIJERY DE MAHAZO MAKA
-#LE TOUT EN JAVASCRIPT
-#LOL1 = un exercice basic a propos d'un triage 
+# Battle dev 
+## lol 1 = devoir a propos des triages
+### temperature (prendre la tmeperature la plus proche de 0)
