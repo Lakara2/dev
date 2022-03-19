@@ -1,4 +1,0 @@
-# dev
-battle dev
-MIJERY DE MAHAZO MAKA. 
-GOOD LUCK
